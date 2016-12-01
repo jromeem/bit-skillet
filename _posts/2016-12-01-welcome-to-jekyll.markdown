@@ -6,4 +6,4 @@ categories:
 ---
 We are a fun group and we are ready to learn! Check out the team: Tony, Melissa, Emmanuel, Howie, Iris, Betty, Paige, Ryan, and Jerome! 
 
-![Alt text](/assets/images/skillets-1.jpg)
+![Alt text]({{ "/assets/images/skillets-1.jpg" | relative_url }})
