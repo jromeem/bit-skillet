@@ -197,11 +197,8 @@ footer {
 .title-link {
   color: #393939; }
 
-.post-list li {
+.post-list .post-list-li {
   list-style-type: none; }
 
 .post-list .post-meta {
   color: #888; }
-
-body {
-  background-color: white; }
