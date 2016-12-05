@@ -17,21 +17,21 @@ If you think about your computer as some kinda of video game-- maybe some kind o
 Here are some examples of what you can do with the Terminal!
 
 - `ls`: listing the files of a directory
-![](/assets/images/terminal/ls/ls.png)
-![](/assets/images/terminal/ls/ls2.png)
+![]({{ "/assets/images/terminal/ls/ls.png" | relative_url }})
+![]({{ "/assets/images/terminal/ls/ls2.png" | relative_url }})
 
 - `cd`: changing to different directory
-![](/assets/images/terminal/cd/cd.png)
-![](/assets/images/terminal/cd/cd2.png)
+![]({{ "/assets/images/terminal/cd/cd.png" | relative_url }})
+![]({{ "/assets/images/terminal/cd/cd2.png" | relative_url }})
 
 - `mkdir`: making a new directory
-![](/assets/images/terminal/mkdir/mkdir.png)
+![]({{ "/assets/images/terminal/mkdir/mkdir.png" | relative_url }})
 
 - `touch`: creating a blank file
-![](/assets/images/terminal/touch/touch.png)
+![]({{ "/assets/images/terminal/touch/touch.png" | relative_url }})
 
 - `cat`: printing the contents of a file
-![](/assets/images/terminal/cat/cat.png)
+![]({{ "/assets/images/terminal/cat/cat.png" | relative_url }})
 
 ### Using Git and Github
 coming soon ~
